@@ -1,0 +1,5 @@
+*/dist/*
+*/build/*
+Hardware/*
+!Hardware/DEC7562-Trabalho_01.pdsprj
+!Hardware/DEC7562-Trabalho_02.pdsprj

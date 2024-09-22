@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)  -omf=elf -DXPRJ_default=$(CND_CONF)    -Wa,-g,--no-relax$(MP_EXTRA_AS_POST) /Users/emir/Documents/dev.projects/dev.ufsc/soembarcado/clonesoftware2freertos/portasm_PIC24.S
